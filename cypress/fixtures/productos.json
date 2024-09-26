@@ -1,0 +1,19 @@
+[
+    {
+        "nameProduct":"Nexus 6",
+        "priceProduct":"650"
+    },
+
+    {
+        "nameProduct":"Samsung galaxy s6",
+        "priceProduct":"360"
+    },
+    {
+        "nameProduct":"Nokia lumia 1520",
+        "priceProduct":"820"
+    },
+    {
+        "nameProduct":"Iphone 6 32gb",
+        "priceProduct":"790"
+    }
+]
